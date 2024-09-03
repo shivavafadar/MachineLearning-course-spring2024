@@ -14,3 +14,16 @@ This was the masters degree course from University of Tehran's College of Engine
 *hw4*: 
 + computation of prediction accuracy of hw3, calculation of precision, recall and F measure, ploting ROC graph for each class using SKlearn.
 + implementing PCA algorithm on it.
+
+*final project*:
++ Research article Prediction of bitcoin stock price using feature subset optimization
++ **Bitcoin Time Series Forecasting**
+
+Bitcoin is the longest running and most well known cryptocurrency, first released as open source in 2009 by the anonymous Satoshi Nakamoto. Bitcoin serves as a decentralized medium of digital exchange, with transactions verified and recorded in a public distributed ledger (the blockchain) without the need for a trusted record keeping authority or central intermediary. Transaction blocks contain a SHA-256 cryptographic hash of previous transaction blocks, and are thus "chained" together, serving as an immutable record of all transactions that have ever occurred. As with any currency/commodity on the market, bitcoin trading and financial instruments soon followed public adoption of bitcoin and continue to grow. 
+
+* Data Exploration
+* Time Series Analysis
+*  Time Series forecasting with **LSTM**
+* Time Series forecasting with **XGBoost**
+* Time Series forecasting with Facebook **Prophet**
+* Time Series forecasting with **ARIMA**
